@@ -22,7 +22,7 @@ We used the R version 4.2.1 and installed the following packages:
 
 ### Data pre-processing
 
-- Please download the data using the links to the survey provided in the refrences section of the manuscript
+- Please download the data using the links to the survey provided in the references section of the manuscript.
 - Run the `code/cycling_to_school_harmonise_data.R` script to extract variables from the three survey rounds and create a combined database. It uses the district and state lookup tables available in the directories, `district_lookup/`and `state_lookup/`.
 
 ### Data analysis
