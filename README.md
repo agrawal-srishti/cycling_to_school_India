@@ -6,8 +6,7 @@ This repository includes the code developed to analyse levels of cycling to scho
 
 - `bicycle_distribution_schemes/` includes data object for bicycle distribution schemes across states, starting year of the scheme, and its applicability (rural/urban x boys/girls).
 - `code/` includes two R scripts, one for harmonising data across three survey rounds, and the other for analysis.
-- `district_lookup/` includes district names corresponding to the district codes specific to the three survey rounds.
-- `state_lookup/` includes state names corresponding to the state codes and the file works for all three rounds.
+- `lookup_tables/` includes district and state lookup files.
 
 ## R version and packages
 
@@ -23,7 +22,7 @@ We used the R version 4.2.1 and installed the following packages:
 ### Data pre-processing
 
 - Please download the data using the links to the survey provided in the references section of the manuscript.
-- Run the `code/cycling_to_school_harmonise_data.R` script to extract variables from the three survey rounds and create a combined database. It uses the district and state lookup tables available in the directories, `district_lookup/`and `state_lookup/`.
+- Run the `code/cycling_to_school_harmonise_data.R` script to extract variables from the three survey rounds and create a combined database. It uses the district and state lookup tables available in the directory, `lookup_tables/`.
 
 ### Data analysis
 
