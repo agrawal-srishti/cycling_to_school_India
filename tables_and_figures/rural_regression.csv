@@ -1,0 +1,25 @@
+Variable,Rural,
+,2007,2017
+(Intercept)," 0.00 (0.00,  0.00)***"," 0.01 ( 0.01,  0.01)***"
+Gender Male,1,1
+Gender Female," 0.58 (0.53,  0.64)***"," 0.75 ( 0.68,  0.82)***"
+Age 5-10  years,1,1
+Age 11-13 years," 3.34 (2.83,  3.94)***"," 3.97 ( 3.41,  4.63)***"
+Age 14-15 years," 6.55 (5.56,  7.72)***"," 7.90 ( 6.77,  9.21)***"
+Age 16-17 years," 7.40 (6.23,  8.79)***"," 8.82 ( 7.49, 10.38)***"
+Distance to school <1 km,1,1
+Distance to school 1-2 km,"10.51 (8.65, 12.77)***"," 9.29 ( 7.97, 10.82)***"
+Distance to school 2-3 km,"30.13 (24.91, 36.44)***","21.73 (18.44, 25.61)***"
+Distance to school 3-5 km,"49.76 (40.84, 60.64)***","21.29 (17.80, 25.46)***"
+Distance to school 5+ km,"30.58 (25.00, 37.41)***"," 7.72 ( 6.51,  9.15)***"
+Type of school Private,1,1
+Type of school Government," 1.12 ( 1.01,  1.24)*"," 1.78 ( 1.60,  1.99)***"
+Household expenditure per person Q1,1,1
+Household expenditure per person Q2," 0.99 ( 0.87,  1.12) "," 0.85 ( 0.76,  0.96)**"
+Household expenditure per person Q3," 1.14 ( 1.01,  1.30)*"," 0.75 ( 0.65,  0.85)***"
+Household expenditure per person Q4," 1.02 ( 0.88,  1.18) "," 0.42 ( 0.36,  0.50)***"
+Household expenditure per person Q5," 0.82 ( 0.67,  1.01) "," 0.47 ( 0.35,  0.61)***"
+Caste Others,1,1
+Caste OBC," 0.93 ( 0.83,  1.04) "," 0.88 ( 0.78,  1.00) "
+Caste SC," 0.75 ( 0.65,  0.86)***"," 1.01 ( 0.87,  1.17) "
+Caste ST," 0.74 ( 0.62,  0.89)***"," 0.63 ( 0.54,  0.74)***"
